@@ -7,4 +7,4 @@ Skills: UiPath / SQL / VBA
 - 🌱 I’m currently learning HTML / CSS / JS / Angular 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/camilo-ortiz-2120781a3/)  [<img src= 'https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](https://www.sucompra.co/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://zitr0.github.io/todogit/PrimerCode.html)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/camilo-ortiz-2120781a3/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://zitr0.github.io/todogit/PrimerCode.html)  
