@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Camilo Ortiz
 I have fun building automated solutions that help people in the company where I work, the technology is RPA.
 
-Skills: UiPath / SQL / VBA
+Skills: UiPath / Automation Anywhere / SQL / VBA
 
 - 🔭 I’m currently working on development of a solution for visualization of logs, control and dashboards for solutions in RPA 
 - 🌱 I’m currently learning HTML / CSS / JS / Angular 
